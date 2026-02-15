@@ -43,9 +43,9 @@ Simply open index.html in your preferred web browser or use the "Live Server" ex
 📝 Usage & Customization
 To adapt this layout for your own content:
 
-Open index.html and locate the &lt;article&gt; or &lt;section&gt; tags.
+Open index.html and locate the <article> or <section> tags.
 
-Replace the placeholder text inside the &lt;h1&gt; through &lt;h6&gt; and &lt;p&gt; tags.
+Replace the placeholder text inside the <h1> through <h6> and <p> tags.
 
 Modify styles.css to change the grid-template-columns if you wish to adjust the magazine's column count.
 
