@@ -25,11 +25,12 @@ GitHub Pages: For hosting and deployment.
 📁 Project Structure
 Plaintext
 Technical-Documentation/
-index.html # Main entry point and content
-style.css # Custom styles and responsive design
-README.md # Project documentation
-⚙️ How to Run Locally
-Clone the repository:
+
+- index.html # Main entry point and content
+- style.css # Custom styles and responsive design
+- README.md # Project documentation
+  ⚙️ How to Run Locally
+  Clone the repository:
 
 Bash
 git clone https://github.com/clymanstech/Technical-Documentation.git
@@ -45,9 +46,9 @@ To update the content:
 
 Open index.html.
 
-Locate the '<section>' tags with class main-section.
+Locate the &lt;<section>&gt; tags with class main-section.
 
-Edit the text within '<header>', '<p>', and '<code>' tags to match your specific technical topic.
+Edit the text within &lt;<header>&gt;, &lt;<p>&gt;, and &lt;<code>&gt;
 
 🤝 Contributing
 Contributions are welcome! If you have suggestions for improving the design or adding features:
