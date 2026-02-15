@@ -26,9 +26,10 @@ GitHub Pages: For hosting and deployment.
 Plaintext
 Technical-Documentation/
 
-- index.html # Main entry point and content
-- style.css # Custom styles and responsive design
-- README.md # Project documentation
+- index.html ➡️ # Main entry point and content
+- style.css ➡️ # Custom styles and responsive design
+- README.md ➡️ # Project documentation
+
   ⚙️ How to Run Locally
   Clone the repository:
 
@@ -46,9 +47,9 @@ To update the content:
 
 Open index.html.
 
-Locate the &lt;<section>&gt; tags with class main-section.
+Locate the &lt;section&gt; tags with class main-section.
 
-Edit the text within &lt;<header>&gt;, &lt;<p>&gt;, and &lt;<code>&gt;
+Edit the text within &lt;header&gt;, &lt;p&gt;, and &lt;code&gt;
 
 🤝 Contributing
 Contributions are welcome! If you have suggestions for improving the design or adding features:
